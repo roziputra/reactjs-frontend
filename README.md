@@ -1,2 +1,6 @@
 # reactjs-frontend
-ini frontend sederhana menggunakan reactjs
+simple frontend with reactjs
+
+run "npm start"
+
+
