@@ -16,7 +16,6 @@ import ButtonGroup from 'react-bootstrap/ButtonGroup';
 
 import Chart from 'chart.js';
 
-import './App.css';
 import { ButtonToolbar } from 'react-bootstrap';
 
 const App = () => {
